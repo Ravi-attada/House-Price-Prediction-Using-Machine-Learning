@@ -1,5 +1,4 @@
 # House-Price-Prediction-Using-Machine-Learning
-Here's a professional **GitHub project description** you can use in your README:
 
 # 🏠 House Price Prediction Using Machine Learning
 

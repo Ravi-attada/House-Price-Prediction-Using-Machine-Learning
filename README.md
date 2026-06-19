@@ -1,5 +1,3 @@
-# House-Price-Prediction-Using-Machine-Learning
-
 # 🏠 House Price Prediction Using Machine Learning
 
 This project focuses on predicting house prices using machine learning techniques based on various property features such as area, number of bedrooms, bathrooms, stories, parking availability, air conditioning, and furnishing status.
